@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,Customer_ID,Product_Category,Product_Name,Region,Quantity,Unit_Price,Discount,Total_Sales,Customer_Name,Customer_Segment,,Customer_ID,Customer_Name,Customer_Segment
+ORD-5001,2023-01-15,C-1001,Electronics,Laptop Pro,North,1,"$1,200.00",5.0%,1140,John Doe,Consumer,,C-1001,John Doe,Consumer
+ORD-5002,2023-01-18,C-1003,Office Supplies,Printer Paper,East,10,$15.00,0.0%,150,Acme Corp,Corporate,,C-1002,Jane Smith,Corporate
+ORD-5003,2023-01-22,C-1002,Furniture,Office Chair,South,2,$150.00,10.0%,270,Jane Smith,Corporate,,C-1003,Acme Corp,Corporate
+ORD-5004,2023-02-05,C-1004,Electronics,Wireless Mouse,West,5,$25.00,0.0%,125,Alice Johnson,Home Office,,C-1004,Alice Johnson,Home Office
+ORD-5005,2023-02-12,C-1007,Office Supplies,Desk Lamp,North,3,$45.00,5.0%,128.25,Delta Inc,Corporate,,C-1005,Bob Brown,Consumer
+ORD-5006,2023-02-28,C-1005,Furniture,Standing Desk,East,1,$450.00,15.0%,382.5,Bob Brown,Consumer,,C-1006,Charlie Davis,Consumer
+ORD-5007,2023-03-10,C-1010,Electronics,"Monitor 27""",South,4,$300.00,10.0%,1080,Global LLC,Corporate,,C-1007,Delta Inc,Corporate
+ORD-5008,2023-03-15,C-1006,Office Supplies,Pens Box,West,20,$5.00,0.0%,100,Charlie Davis,Consumer,,C-1008,Eve White,Home Office
+ORD-5009,2023-03-22,C-1008,Furniture,Bookshelf,North,2,$120.00,5.0%,228,Eve White,Home Office,,C-1009,Frank Green,Consumer
+ORD-5010,2023-04-05,C-1009,Electronics,Keyboard,East,3,$50.00,0.0%,150,Frank Green,Consumer,,C-1010,Global LLC,Corporate
+ORD-5011,2023-04-12,C-1001,Office Supplies,Notebooks,South,15,$8.00,0.0%,120,John Doe,Consumer,,,,
+ORD-5012,2023-04-20,C-1003,Furniture,Filing Cabinet,West,1,$200.00,10.0%,180,Acme Corp,Corporate,,,,
+ORD-5013,2023-05-02,C-1002,Electronics,Tablet,North,2,$400.00,5.0%,760,Jane Smith,Corporate,,,,
+ORD-5014,2023-05-18,C-1004,Office Supplies,Stapler,East,5,$12.00,0.0%,60,Alice Johnson,Home Office,,,,
+ORD-5015,2023-05-25,C-1007,Furniture,Conference Table,South,1,$800.00,20.0%,640,Delta Inc,Corporate,,,,
+ORD-5016,2023-06-10,C-1005,Electronics,Webcam,West,4,$80.00,0.0%,320,Bob Brown,Consumer,,,,
+ORD-5017,2023-06-15,C-1010,Office Supplies,Whiteboard,North,2,$150.00,10.0%,270,Global LLC,Corporate,,,,
+ORD-5018,2023-06-22,C-1006,Furniture,Ergonomic Chair,East,3,$250.00,15.0%,637.5,Charlie Davis,Consumer,,,,
+ORD-5019,2023-07-05,C-1008,Electronics,Headphones,South,6,$60.00,5.0%,342,Eve White,Home Office,,,,
+ORD-5020,2023-07-12,C-1009,Office Supplies,Markers,West,10,$10.00,0.0%,100,Frank Green,Consumer,,,,
+ORD-5021,2023-07-28,C-1001,Furniture,Sofa,North,1,$600.00,10.0%,540,John Doe,Consumer,,,,
+ORD-5022,2023-08-10,C-1003,Electronics,Smartphone,East,2,$800.00,5.0%,1520,Acme Corp,Corporate,,,,
+ORD-5023,2023-08-15,C-1002,Office Supplies,Envelopes,South,50,$2.00,0.0%,100,Jane Smith,Corporate,,,,
+ORD-5024,2023-08-22,C-1004,Furniture,Side Table,West,2,$75.00,0.0%,150,Alice Johnson,Home Office,,,,
+ORD-5025,2023-09-05,C-1007,Electronics,USB Drive,North,10,$15.00,0.0%,150,Delta Inc,Corporate,,,,
+ORD-5026,2023-09-12,C-1005,Office Supplies,Binder,East,20,$4.00,0.0%,80,Bob Brown,Consumer,,,,
+ORD-5027,2023-09-20,C-1010,Furniture,Desk Organizer,South,5,$25.00,5.0%,118.75,Global LLC,Corporate,,,,
+ORD-5028,2023-10-02,C-1006,Electronics,Power Bank,West,3,$40.00,0.0%,120,Charlie Davis,Consumer,,,,
+ORD-5029,2023-10-15,C-1008,Office Supplies,Scissors,North,8,$6.00,0.0%,48,Eve White,Home Office,,,,
+ORD-5030,2023-10-25,C-1009,Furniture,Floor Lamp,East,1,$85.00,10.0%,76.5,Frank Green,Consumer,,,,
