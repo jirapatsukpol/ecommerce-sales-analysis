@@ -6,3 +6,4 @@ Developed an automated sales dashboard using advanced Excel functions (VLOOKUP, 
 **Best-Selling Product Category**: Electronics emerged as the most profitable category (generating nearly $6,000 in sales), significantly outperforming Furniture and Office Supplies.  
 
 **Strategic Opportunity**: The West region contributed the least to the overall revenue at only 11%, presenting a clear opportunity to launch targeted promotional campaigns to boost regional market share
+<img width="620" height="192" alt="Screenshot 2026-10-02 214205" src="https://github.com/user-attachments/assets/e298e75f-0822-4276-a77c-a42c132fc62c" />
